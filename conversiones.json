@@ -1,0 +1,41 @@
+[
+{
+  "moneda_base": "USD",
+  "moneda_objetivo": "BRL",
+  "cantidad_base": 20.0,
+  "tasa_conversion": 6.1476,
+  "cantidad_convertida": 122.952
+},
+
+{
+  "moneda_base": "USD",
+  "moneda_objetivo": "ARS",
+  "cantidad_base": 20.0,
+  "tasa_conversion": 1021.83,
+  "cantidad_convertida": 20436.600000000002
+},
+
+{
+  "moneda_base": "USD",
+  "moneda_objetivo": "ARS",
+  "cantidad_base": 5.0,
+  "tasa_conversion": 1027.75,
+  "cantidad_convertida": 5138.75
+},
+
+{
+  "moneda_base": "ARS",
+  "moneda_objetivo": "USD",
+  "cantidad_base": 5138.75,
+  "tasa_conversion": 9.73E-4,
+  "cantidad_convertida": 5.00000375
+},
+
+{
+  "moneda_base": "eur",
+  "moneda_objetivo": "USD",
+  "cantidad_base": 15.0,
+  "tasa_conversion": 1.0395,
+  "cantidad_convertida": 15.592500000000001
+}
+]
